@@ -1,0 +1,108 @@
+{
+   "equipo":{
+      "arqueros":[
+         {
+            "Id":"1",
+            "Nombre":"Tomas Arquero1",
+            "Reflejos":"8",
+            "Tapadas":"9"
+         },
+         {
+            "Id":"2",
+            "Nombre":"Cristian Arquero2",
+            "Reflejos":"9",
+            "Tapadas":"9"
+         }
+      ],
+      "defensores":[
+          {
+            "Id":"3",
+            "Nombre":"Juan Defensor1",
+            "HabilidadCorte":"6",
+            "VelocidadAbsoluta":"6"
+         },
+         {
+            "Id":"4",
+            "Nombre":"Carlos Defensor2",
+            "HabilidadCorte":"7",
+            "VelocidadAbsoluta":"7"
+         },
+         {
+            "Id":"5",
+            "Nombre":"Esteban Defensor3",
+            "HabilidadCorte":"8",
+            "VelocidadAbsoluta":"8"
+         },
+		 {
+            "Id":"6",
+            "Nombre":"Mariano Defensor4",
+            "HabilidadCorte":"9",
+            "VelocidadAbsoluta":"9"
+         },
+		 {
+            "Id":"7",
+            "Nombre":"Maxi Defensor5",
+            "HabilidadCorte":"9",
+            "VelocidadAbsoluta":"9"
+         },
+		 {
+            "Id":"8",
+            "Nombre":"Ramiro Defensor6",
+            "HabilidadCorte":"4",
+            "VelocidadAbsoluta":"4"
+         }
+      ],
+      "medioCampista":[
+         {
+            "Id":"9",
+            "Nombre":"Daniel Medio1",
+            "PaseMagico":"9",
+            "VisionTotal":"9"
+         },
+         {
+            "Id":"10",
+            "Nombre":"Ezequiel Medio2",
+            "PaseMagico":"8",
+            "VisionTotal":"8"
+         },
+         {
+            "Id":"11",
+            "Nombre":"Sergio Medio3",
+            "PaseMagico":"7",
+            "VisionTotal":"7"
+         },
+		 {
+            "Id":"12",
+            "Nombre":"Gustavo Medio4",
+            "PaseMagico":"6",
+            "VisionTotal":"6"
+         },
+		 {
+            "Id":"13",
+            "Nombre":"Damian Medio5",
+            "PaseMagico":"5",
+            "VisionTotal":"5"
+         }
+      ],
+      "delanteros":[
+         {
+            "Id":"14",
+            "Nombre":"Abel Delantero1",
+            "OlfatoGol":"9",
+            "PotenciaPegada":"9"
+         },
+         {
+            "Id":"15",
+            "Nombre":"Juan Cruz Delantero2",
+            "OlfatoGol":"8",
+            "PotenciaPegada":"8"
+         },
+         {
+            "Id":"16",
+            "Nombre":"Brian Delantero3",
+            "OlfatoGol":"7",
+            "PotenciaPegada":"7"
+         }
+      ]
+   }
+}
